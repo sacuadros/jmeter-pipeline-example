@@ -1,2 +1,2 @@
 # jmeter-pipeline-example
-jmeter pipeline example with registry push
+jmeter pipeline example with registry storage
